@@ -1,0 +1,7 @@
+#Fri Jun 30 14:13:33 ART 2017
+base.0=C\:\\Users\\Tecnica\\Documents\\Android\\Carrito2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_271cda5531f9d4d35f3561ff3912b8c436690407
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tecnica\\Documents\\Android\\Carrito2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5dc45790d84ffb9a5e30508ee63178d69122263e\\classes.dex
+base.1=C\:\\Users\\Tecnica\\Documents\\Android\\Carrito2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5dc45790d84ffb9a5e30508ee63178d69122263e
+file.0=C\:\\Users\\Tecnica\\Documents\\Android\\Carrito2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_271cda5531f9d4d35f3561ff3912b8c436690407\\classes.dex

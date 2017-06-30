@@ -1,0 +1,7 @@
+#Fri Jun 30 12:15:40 ART 2017
+base.0=C\:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ffcff55e1dd1c9c334111432cf3dba053cba31f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53bc45cd0d087dc352c1dc91dc09da5fe49cf1b\\classes.dex
+base.1=C\:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c53bc45cd0d087dc352c1dc91dc09da5fe49cf1b
+file.0=C\:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1ffcff55e1dd1c9c334111432cf3dba053cba31f\\classes.dex

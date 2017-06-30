@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\ADT Android\\sdk\\.android\\build-cache\\e05117b446e27a08db08c58ef781a3cf8cef08e7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\ADT Android\\sdk\\.android\\build-cache\\e05117b446e27a08db08c58ef781a3cf8cef08e7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\ADT Android\\sdk\\.android\\build-cache\\e05117b446e27a08db08c58ef781a3cf8cef08e7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tecnica\\Documents\\Android\\HolaMundo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\ADT Android\\sdk\\.android\\build-cache\\e05117b446e27a08db08c58ef781a3cf8cef08e7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

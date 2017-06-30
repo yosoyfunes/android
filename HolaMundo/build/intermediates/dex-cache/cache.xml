@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\7aad15060f3f303b0b4da5b83a3d1505256c9301\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_0abe4722b31ffd499dabfb2179bfd06f8d472e3d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c53bc45cd0d087dc352c1dc91dc09da5fe49cf1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tecnica\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5bf84a2ec0441c17390020801b225ba20a3ef740.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd06b90995aeded628d008f63a738be3af8353c2">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1ffcff55e1dd1c9c334111432cf3dba053cba31f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\f7ea5ead8e9a49d3844a178907f55f0cad441804\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_6f225f74917ea185f343dc0cbe5d33445b7d5bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\e14d32eeb004260fe836fcef48eb3b33548819e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_4caf6d43955be8f17983f4352520e80d84b468b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\a3e7a715b7af43f6750aff07c5291523e85e0afc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_2972f719ff27f2e4a3947ca2777263af664ec07d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tecnica\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7421e42b97d5aa7e0d7c5dd63885ac2d0fd97e71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\f7133ddfa9b3b4d1a37d7aed6ba78988f4385f12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_5b9e705331e409a18cd9f2c15eb8c75849afbf7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\9a73ad76c73bf84784c093a7deb48c3606317a68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_63cddc5737c6929f3bfda12f86f21f9ffc1d089a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\7023724ec8d5f632169f6420995588c7cdf323fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_fb8b818b4f79caf54d04697e130bf0fbf2f07e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\bb0d74c18ec29215d79c50d06e505038d68ee92a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_40535eaddef0effb6774844c46f1bfcef8b91fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\a55709f5484f95c5ce25c0e1917711b37dbf2bc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_681d0ff4cc7b42263cdadae7ca7e89e4ca7a869b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\ac4958c1e1e1e3d7287dc6855d998d586577d1d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_8f57543d57139b1fa98d56ea2bae4fc6cac4b623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\9e94b68779a99eb0349a7f158cd83fddfb7e9f52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_aadffded8a100fce12c7911fbcf1d00a2a13e5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\e05117b446e27a08db08c58ef781a3cf8cef08e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_44ecc809869dbe532def1ab2522dc4dabc8d9a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ADT Android\sdk\.android\build-cache\d762f3be55c7dfc01691262aba0f628e3b0a7348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Tecnica\Documents\Android\HolaMundo\app\build\intermediates\pre-dexed\debug\classes_1c9f33db4bc22334b2e33bdcb4be62cd79ce42bc.jar" />
+    </item>
+
+</items>
